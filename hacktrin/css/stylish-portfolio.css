@@ -73,6 +73,9 @@ hr.small {
   max-width: 100px;
 }
 
+hr.smaller {
+  max-width: 80px;
+}
 
 /* Side Menu */
 
